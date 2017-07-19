@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Stack-Overboard.iml" filepath="$PROJECT_DIR$/.idea/modules/Stack-Overboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Stack-Overboard_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Stack-Overboard_main.iml" group="Stack-Overboard" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Stack-Overboard_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Stack-Overboard_test.iml" group="Stack-Overboard" />
+    </modules>
+  </component>
+</project>
